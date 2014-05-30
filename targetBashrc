@@ -1,0 +1,10 @@
+[[ -s "/home/xxiao/.rvm/scripts/rvm" ]] && source "/home/xxiao/.rvm/scripts/rvm"
+alias gvim='UBUNTU_MENUPROXY= gvim'
+[[ -s "/home/xxiao/.rvm/scripts/rvm" ]] && source "/home/xxiao/.rvm/scripts/rvm"
+[[ -s "/home/xxiao/.rvm/scripts/rvm" ]] && source "/home/xxiao/.rvm/scripts/rvm"
+
+export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
+[[ -s "/home/xxiao/.rvm/scripts/rvm" ]] && source "/home/xxiao/.rvm/scripts/rvm"
+
+export PYTHONPATH=/home/xxiao/Tools/vim/pythonmodule
+export MYVIMRC=/home/xxiao/Tools/vim/vimrc

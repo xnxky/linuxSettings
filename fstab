@@ -1,0 +1,34 @@
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system> <mount point>   <type>  <options>       <dump>  <pass>
+proc            /proc           proc    nodev,noexec,nosuid 0       0
+# / was on /dev/sda6 during installation
+UUID=12f03bd1-430d-481a-b091-b3c5bc5dc1eb /               ext4    errors=remount-ro 0       1
+# /boot was on /dev/sda1 during installation
+UUID=c440c4df-7372-4df8-a7dc-09b1630e1487 /boot           ext4    defaults        0       2
+# swap was on /dev/sda5 during installation
+UUID=bb2e2231-566f-4809-a1d2-f2447264fb31 none            swap    sw              0       0
+
+builds:/vol/projects2/builds_data/Symbols               /mnt3/Symbols2                  nfs     defaults        0 0
+builds:/vol/projects2/builds_data/NightlyDebug       	/mnt3/NightlyDebug  		nfs     defaults        0 0
+builds:/vol/projects2/builds_data/NightlyRetailDebug  	/mnt3/NightlyRetailDebug  	nfs     defaults        0 0
+builds:/vol/projects2/builds_data/NightlyProfile       	/mnt3/NightlyProfile  		nfs     defaults        0 0
+builds:/vol/projects5/RetailDebug			/mnt2/RetailDebug  		nfs     defaults	0 0 
+builds:/vol/projects2/builds_data/Nightly               /mnt/WinNightly               	nfs     defaults	0 0 
+builds:/vol/projects2/builds_data/nightlyrestricted     /mnt/WinNightlyRestricted      	nfs     defaults	0 0 
+builds:/vol/projects3/builds_data/PreRel-old            /mnt/WinPrerelease      	nfs     defaults	0 0 
+builds:/vol/projects2/builds_data/prerelrestricted      /mnt/WinPrereleaseRestricted  	nfs     defaults	0 0 
+#Added per HR 570312, waiting for confirmation...
+builds:/vol/projects5/Debug                        	/mnt3/Debug  	nfs     defaults        0 0                                  
+builds:/vol/projects2/builds_data/Builds              	/mnt2/Builds    nfs     defaults        0 0                             
+builds:/vol/scratch1/ROD                              	/mnt2/ROD     	nfs     defaults        0 0
+builds:/vol/projects2/builds_data/Stage              	/mnt2/Stage	nfs     defaults        0 0
+builds:/vol/projects2/builds_data/Symbols         	/mnt2/Symbols   nfs     defaults        0 0
+# Added for monitoring
+netapp62:/vol/projects2/mistools                        /home/mistools  nfs     defaults        0 0
+sc-tools3:/vol/utils/utils/x86_64                       /home/utils     nfs     defaults        0 0
+netapp45:/vol/projects1/nagios                          /home/nagios    nfs     defaults        0 0

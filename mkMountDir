@@ -1,0 +1,1 @@
+sudo mkdir -p /mnt/WinNightly /mnt/WinPrerelease /mnt/WinPrereleaseRestricted /mnt/WinNightlyRestricted /mnt2/Builds /mnt2/ROD /mnt2/Stage /mnt2/Symbols /mnt2/RetailDebug /mnt3/Debug /mnt3/NightlyProfile /mnt3/Symbols2 /mnt3/NightlyDebug /mnt3/NightlyRetailDebug
