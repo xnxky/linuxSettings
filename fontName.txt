@@ -1,0 +1,89 @@
+Anonymice Powerline Bold Italic-Powerline.ttf
+Anonymice Powerline Bold Italic.ttf
+Anonymice Powerline Bold-Powerline.ttf
+Anonymice Powerline Bold.ttf
+Anonymice Powerline Italic-Powerline.ttf
+Anonymice Powerline Italic.ttf
+Anonymice Powerline-Powerline.ttf
+Anonymice Powerline.ttf
+DejaVu Sans Mono Bold for Powerline-Powerline.ttf
+DejaVu Sans Mono Bold for Powerline.ttf
+DejaVu Sans Mono Bold Oblique for Powerline-Powerline.ttf
+DejaVu Sans Mono Bold Oblique for Powerline.ttf
+DejaVu Sans Mono for Powerline-Powerline.ttf
+DejaVu Sans Mono for Powerline.ttf
+DejaVu Sans Mono Oblique for Powerline-Powerline.ttf
+DejaVu Sans Mono Oblique for Powerline.ttf
+Droid Sans Mono for Powerline.otf
+Droid Sans Mono for Powerline-Powerline.otf
+Droid Sans Mono for Powerline-Powerline-Powerline.otf
+Inconsolata-dz for Powerline.otf
+Inconsolata-dz for Powerline-Powerline.otf
+Inconsolata-dz for Powerline-Powerline-Powerline.otf
+Inconsolata for Powerline.otf
+Inconsolata for Powerline-Powerline.otf
+Inconsolata for Powerline-Powerline-Powerline.otf
+Literation Mono Powerline Bold Italic-Powerline-Powerline.ttf
+Literation Mono Powerline Bold Italic-Powerline.ttf
+Literation Mono Powerline Bold Italic.ttf
+Literation Mono Powerline Bold-Powerline-Powerline.ttf
+Literation Mono Powerline Bold-Powerline.ttf
+Literation Mono Powerline Bold.ttf
+Literation Mono Powerline Italic-Powerline-Powerline.ttf
+Literation Mono Powerline Italic-Powerline.ttf
+Literation Mono Powerline Italic.ttf
+Literation Mono Powerline-Powerline-Powerline.ttf
+Literation Mono Powerline-Powerline.ttf
+Literation Mono Powerline.ttf
+Meslo LG L DZ Regular for Powerline.otf
+Meslo LG L DZ Regular for Powerline-Powerline.otf
+Meslo LG L DZ Regular for Powerline-Powerline-Powerline.otf
+Meslo LG L Regular for Powerline.otf
+Meslo LG L Regular for Powerline-Powerline.otf
+Meslo LG L Regular for Powerline-Powerline-Powerline.otf
+Meslo LG M DZ Regular for Powerline.otf
+Meslo LG M DZ Regular for Powerline-Powerline.otf
+Meslo LG M DZ Regular for Powerline-Powerline-Powerline.otf
+Meslo LG M Regular for Powerline.otf
+Meslo LG M Regular for Powerline-Powerline.otf
+Meslo LG M Regular for Powerline-Powerline-Powerline.otf
+Meslo LG S DZ Regular for Powerline.otf
+Meslo LG S DZ Regular for Powerline-Powerline.otf
+Meslo LG S DZ Regular for Powerline-Powerline-Powerline.otf
+Meslo LG S Regular for Powerline.otf
+Meslo LG S Regular for Powerline-Powerline.otf
+Meslo LG S Regular for Powerline-Powerline-Powerline.otf
+PowerlineSymbols.otf
+PowerlineSymbols-Powerline.otf
+PowerlineSymbols-Powerline-Powerline.otf
+PowerlineSymbols-Powerline-Powerline-Powerline.otf
+Sauce Code Powerline Black.otf
+Sauce Code Powerline Black-Powerline.otf
+Sauce Code Powerline Black-Powerline-Powerline.otf
+Sauce Code Powerline Black-Powerline-Powerline-Powerline.otf
+Sauce Code Powerline Bold.otf
+Sauce Code Powerline Bold-Powerline.otf
+Sauce Code Powerline Bold-Powerline-Powerline.otf
+Sauce Code Powerline ExtraLight.otf
+Sauce Code Powerline ExtraLight-Powerline.otf
+Sauce Code Powerline ExtraLight-Powerline-Powerline.otf
+Sauce Code Powerline Light.otf
+Sauce Code Powerline Light-Powerline.otf
+Sauce Code Powerline Light-Powerline-Powerline.otf
+Sauce Code Powerline Medium.otf
+Sauce Code Powerline Medium-Powerline.otf
+Sauce Code Powerline Medium-Powerline-Powerline.otf
+Sauce Code Powerline Regular.otf
+Sauce Code Powerline Regular-Powerline.otf
+Sauce Code Powerline Regular-Powerline-Powerline.otf
+Sauce Code Powerline Semibold.otf
+Sauce Code Powerline Semibold-Powerline.otf
+Sauce Code Powerline Semibold-Powerline-Powerline.otf
+Ubuntu Mono derivative Powerline Bold Italic-Powerline.ttf
+Ubuntu Mono derivative Powerline Bold Italic.ttf
+Ubuntu Mono derivative Powerline Bold-Powerline.ttf
+Ubuntu Mono derivative Powerline Bold.ttf
+Ubuntu Mono derivative Powerline Italic-Powerline.ttf
+Ubuntu Mono derivative Powerline Italic.ttf
+Ubuntu Mono derivative Powerline-Powerline.ttf
+Ubuntu Mono derivative Powerline.ttf
